@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/javaworkspce/seleniumtraining/jar/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspce/seleniumtraining/jar/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspce/seleniumtraining/jar/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspce/seleniumtraining/jar/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspce/seleniumtraining/jar/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspce/seleniumtraining/jar/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspce/seleniumtraining/jar/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspce/seleniumtraining/jar/httpcore5-h2-5.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspce/seleniumtraining/jar/jackson-annotations-2.10.3.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspce/seleniumtraining/jar/jackson-core-2.10.3.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspce/seleniumtraining/jar/jackson-databind-2.10.3.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspce/seleniumtraining/jar/jcl-over-slf4j-1.7.30.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspce/seleniumtraining/jar/jna-5.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspce/seleniumtraining/jar/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspce/seleniumtraining/jar/webdrivermanager-5.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspce/seleniumtraining/jar/bcpkix-jdk15on-1.64 - Copy.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspce/seleniumtraining/jar/bcpkix-jdk15on-1.64.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspce/seleniumtraining/jar/bcprov-jdk15on-1.64 - Copy.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspce/seleniumtraining/jar/bcprov-jdk15on-1.64.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspce/seleniumtraining/jar/commons-codec-1.15 - Copy.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspce/seleniumtraining/jar/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspce/seleniumtraining/jar/commons-compress-1.21 - Copy.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspce/seleniumtraining/jar/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspce/seleniumtraining/jar/commons-io-2.6 - Copy.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspce/seleniumtraining/jar/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspce/seleniumtraining/jar/commons-lang3-3.12.0 - Copy.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspce/seleniumtraining/jar/commons-lang3-3.12.0.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspce/seleniumtraining/jar/dec-0.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspce/seleniumtraining/jar/docker-java-3.2.13.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspce/seleniumtraining/jar/docker-java-api-3.2.13.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspce/seleniumtraining/jar/docker-java-core-3.2.13.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspce/seleniumtraining/jar/docker-java-transport-3.2.13.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspce/seleniumtraining/jar/docker-java-transport-httpclient5-3.2.13.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspce/seleniumtraining/jar/gson-2.9.0.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspce/seleniumtraining/jar/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspce/seleniumtraining/jar/httpclient5-5.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/javaworkspce/seleniumtraining/jar/httpcore5-5.1.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
